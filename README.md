@@ -55,7 +55,7 @@ Keeping the core private does not mean asking people to trust a conclusion. Publ
 
 The first support route is PayPal.Me for international, one-time contributions: [support the lab through PayPal.Me](https://paypal.me/MSPJIAN).
 
-The receiving account and Taiwan bank withdrawal path have been set up. A small test payment should still be recorded before making any stronger operational claims.
+The receiving account and Taiwan bank withdrawal path have been set up. A small test payment has been completed successfully, and the funds can be withdrawn through the linked Taiwan bank account.
 
 GitHub Sponsors can show Taiwan as a residence choice, but its direct bank-payout step currently reports that Taiwan is not supported. This repository therefore uses GitHub's custom funding link instead of pretending that a direct GitHub Sponsors payout is ready.
 
